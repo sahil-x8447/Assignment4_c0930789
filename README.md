@@ -15,27 +15,18 @@ Maven
 # Clone the repository to your local machine:
 git clone https://github.com/sahil-x8447/Assignment4_c0930789.git
 
-bash
-Copy
-Edit
 # git clone 
 Navigate to the project directory:
 
-bash
-Copy
-Edit
+
 cd Assignment4_c0930789.git
 Build the project using Maven:
 
-bash
-Copy
-Edit
+
 mvn clean install
 Run the application with the following command:
 
-bash
-Copy
-Edit
+
 mvn spring-boot:run
 This will start the application on the default port, usually 8080.
 
