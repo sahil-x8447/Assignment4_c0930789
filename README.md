@@ -3,7 +3,7 @@
 Name: Sahil Sharma
 Student ID: C0930789
 ## Project Description
-This project is a Student Management System built using Java and Spring Boot. The system allows users to add, view, edit, and delete student records. It demonstrates core Java and Spring Boot concepts, with an emphasis on building web applications using Spring MVC and Thymeleaf.
+This project is a Student Management System built using Java and Spring Boot. The system allows users to add, view, and delete student records. It demonstrates core Java and Spring Boot concepts, with an emphasis on building web applications using Spring MVC and Thymeleaf.
 
 ## How to Run the Project
 ## Prerequisites
