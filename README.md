@@ -4,15 +4,19 @@ Name: Sahil Sharma
 Student ID: C0930789
 
 
-## How to Run the Project
-Follow the steps below to run the Student Management System locally on your machine:
-
+How to Run the Project Locally
 Prerequisites
 Make sure you have the following installed:
 
-Java 8 or higher: Download and install Java
-Maven: Download and install Maven
-IDE: You can use any Java IDE (e.g., IntelliJ IDEA, Eclipse).
+Java 8 or higher
+Download and install Java.
+
+Maven
+Download and install Maven.
+
+IDE
+You can use any Java IDE, such as IntelliJ IDEA or Eclipse.
+
 Steps to Run the Project:
 Clone the repository:
 
@@ -26,7 +30,7 @@ bash
 Copy
 Edit
 cd student-management-system
-Build the project: If you have Maven installed, you can build the project by running the following command in your terminal/command prompt:
+Build the project: If you have Maven installed, build the project by running the following command:
 
 bash
 Copy
@@ -40,7 +44,7 @@ Edit
 mvn spring-boot:run
 Access the Application: Once the application is running, open your web browser and go to:
 
-arduino
+text
 Copy
 Edit
 http://localhost:8080
