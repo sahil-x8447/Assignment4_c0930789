@@ -1,29 +1,30 @@
-Student Management System - Setup Guide
-Developer Information
+## Student Management System - Setup Guide
+## Developer Information
 Name: Sahil Sharma
 Student ID: C0930789
-Project Description
+## Project Description
 This project is a Student Management System built using Java and Spring Boot. The system allows users to add, view, edit, and delete student records. It demonstrates core Java and Spring Boot concepts, with an emphasis on building web applications using Spring MVC and Thymeleaf.
 
-How to Run the Project
-Prerequisites
+## How to Run the Project
+## Prerequisites
 Ensure you have the following installed on your system:
 
 Java (JDK 8 or higher)
 Maven
-Steps to Run the Project
-Clone the repository to your local machine:
+## Steps to Run the Project
+# Clone the repository to your local machine:
+git clone https://github.com/sahil-x8447/Assignment4_c0930789.git
 
 bash
 Copy
 Edit
-git clone https://github.com/sahil-x8447/student-management-system.git
+# git clone 
 Navigate to the project directory:
 
 bash
 Copy
 Edit
-cd student-management-system
+cd Assignment4_c0930789.git
 Build the project using Maven:
 
 bash
