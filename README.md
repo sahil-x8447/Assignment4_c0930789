@@ -1,24 +1,18 @@
-## Assignment 4 
-## Developer Information
+Student Management System - Setup Guide
+Developer Information
 Name: Sahil Sharma
 Student ID: C0930789
+Project Description
+This project is a Student Management System built using Java and Spring Boot. The system allows users to add, view, edit, and delete student records. It demonstrates core Java and Spring Boot concepts, with an emphasis on building web applications using Spring MVC and Thymeleaf.
 
-
-How to Run the Project Locally
+How to Run the Project
 Prerequisites
-Make sure you have the following installed:
+Ensure you have the following installed on your system:
 
-Java 8 or higher
-Download and install Java.
-
+Java (JDK 8 or higher)
 Maven
-Download and install Maven.
-
-IDE
-You can use any Java IDE, such as IntelliJ IDEA or Eclipse.
-
-Steps to Run the Project:
-Clone the repository:
+Steps to Run the Project
+Clone the repository to your local machine:
 
 bash
 Copy
@@ -30,22 +24,22 @@ bash
 Copy
 Edit
 cd student-management-system
-Build the project: If you have Maven installed, build the project by running the following command:
+Build the project using Maven:
 
 bash
 Copy
 Edit
 mvn clean install
-Run the application: After building the project, you can run the Spring Boot application with the following command:
+Run the application with the following command:
 
 bash
 Copy
 Edit
 mvn spring-boot:run
-Access the Application: Once the application is running, open your web browser and go to:
+This will start the application on the default port, usually 8080.
 
-text
-Copy
-Edit
-http://localhost:8080
-You should see the Student Management System running, where you can add, view, edit, and delete student records.
+Project Structure
+src/: Contains the source code for the project.
+pom.xml: Maven project configuration file.
+application.properties: Configuration file for the project.
+README.md: This file.
